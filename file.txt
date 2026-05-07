@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Line from master
 Line 2 from master
+=======
+Line from dev
+>>>>>>> dev
